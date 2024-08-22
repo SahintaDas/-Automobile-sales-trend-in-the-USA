@@ -1,2 +1,2 @@
 # -Automobile-sales-trend-in-the-USA
-The project analyzed the automobile sales trend in USA in terms of region, dealers, body style, and customer’s gender.
+The project analysed the automobile sales trend in USA in terms of region, dealers, body style, and customer’s gender. Pivot table, slicer, VLOOKUP, MATCH, INDEX and Conditional Formatting functions were used to identify the top automobile dealers in the USA, the top car selling regions, top automobile companies, gender wise automobile spending trend, most selling body style of top 5 automobile companies, and top selling region of top brands. 
